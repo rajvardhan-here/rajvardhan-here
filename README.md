@@ -35,4 +35,12 @@ Currently focused on Machine Learning, Python, and problem solving.
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/yourlink  
+- LinkedIn: https://linkedin.com/in/yourlink
+
+---
+![Python](https://img.shields.io/badge/Python-Blue?logo=python)
+![HTML](https://img.shields.io/badge/HTML-Orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Blue?logo=css3)
+![Git](https://img.shields.io/badge/Git-Red?logo=git)
+
+
