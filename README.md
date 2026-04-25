@@ -26,6 +26,7 @@ Currently focused on Machine Learning, Python, and problem solving.
 - 📊 Data Analysis Project (Coming Soon)  
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=rajvardhan-here&show_icons=true&theme=radical)
 
 ## 🎯 Current Focus
 - Learning Machine Learning  
