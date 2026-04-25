@@ -3,7 +3,7 @@
 🚀 Software Engineer | AI & Python Developer
 
 💻 Computer Science Undergraduate
-📍 India
+📍 Indore ( India )
 
 ---
 
@@ -61,8 +61,6 @@ A FastAPI-based backend system with authentication, role-based access (Doctor/Pa
 📊 GitHub Stats
 
 🔗 Profile:  https://github.com/rajvardhan-here
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajvardhan-here\&show_icons=true\&theme=radical)
 
 ---
 
