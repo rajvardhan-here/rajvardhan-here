@@ -26,7 +26,15 @@ Currently focused on Machine Learning, Python, and problem solving.
 - 📊 Data Analysis Project (Coming Soon)  
 
 ---
+
+🔵 Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajvardhan-here&theme=radical)
+
+---
+🟡Languages -
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-here&layout=compact)
+
+---
 ## 🎯 Current Focus
 - Learning Machine Learning  
 - Improving DSA  
