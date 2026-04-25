@@ -38,7 +38,7 @@ SimpliLearn Certifications:
     🔗 [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
     
    Introduction to Google Cloud Platform
-    🔗 [View Certificate]([ADD_LINK_HERE](https://simpli-web.app.link/e/CNmP6LP4C2b))
+    🔗 [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b))
 
 ---
 
