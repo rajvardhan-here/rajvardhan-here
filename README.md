@@ -35,7 +35,7 @@ Currently focused on Machine Learning, Python, and problem solving.
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/yourlink
+- LinkedIn: https://linkedin.com/in/rajvardhann
 
 ---
 ![Python](https://img.shields.io/badge/Python-Blue?logo=python)
