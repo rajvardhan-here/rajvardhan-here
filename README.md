@@ -1,54 +1,97 @@
-# 👋 Hi, I'm Rajvardhan Singh Chauhan
+👋 Hi, I'm Rajvardhan Singh Chouhan
 
-🚀 Aspiring AI/ML Engineer  
-💻 CS Undergrad | Python Developer  
-📍 India  
+🚀 Software Engineer | AI & Python Developer
 
----
-
-## 🧠 About Me
-I am passionate about building real-world solutions using technology.  
-Currently focused on Machine Learning, Python, and problem solving.
+💻 Computer Science Undergraduate
+📍 India
 
 ---
 
-## 🛠️ Skills
-- Python  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- Data Structures (Learning)  
+🧠 About Me
+
+I build practical and scalable software solutions using Python and modern technologies.
+I am focused on Artificial Intelligence, Machine Learning, and full-stack development, with an emphasis on writing clean, efficient, and maintainable code.
+
+I have strong interpersonal and communication skills, with the ability to understand people, build trust, and create a positive working environment. I am comfortable making thoughtful decisions under pressure and enjoy collaborating, contributing to teams, and helping others grow.
 
 ---
 
-## 🚀 Projects
-- 📚 Apni Pustak – Bookstore Website  
-- 🤖 ML Project (Coming Soon)  
-- 📊 Data Analysis Project (Coming Soon)  
+🛠️ Tech Stack
+
+* **Languages:** Python, JavaScript
+* **Frontend:** HTML, CSS, React
+* **Backend:** FastAPI / Django (Learning & Building)
+* **Database:** PostgreSQL
+* **Tools:** Git, GitHub, VS Code, PyCharm
+* **AI/ML:** Data Science, Prompt Engineering, AI Tools
 
 ---
 
-🔵 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajvardhan-here&theme=radical)
+ 🎓 Certifications
+
+Python for Data Science – NPTEL** *(Score: Updating soon)
+  🔗 [View Certificate](ADD_LINK_HERE)
+
+SimpliLearn Certifications:
+
+   Data Science
+    🔗 [View Certificate](ADD_LINK_HERE)
+   Python Programming
+    🔗 [View Certificate](ADD_LINK_HERE)
 
 ---
-🟡Languages -
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-here&layout=compact)
+
+💼 Experience
+
+Freelance Work:
+
+  * Video Editing using Adobe Premiere Pro
+  * Client-based content editing and delivery
 
 ---
-## 🎯 Current Focus
-- Learning Machine Learning  
-- Improving DSA  
-- Building strong projects  
+
+🚀 Projects
+
+🏥 Healthcare Backend System
+
+A FastAPI-based backend system with authentication, role-based access (Doctor/Patient), and REST APIs.
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/rajvardhann
+📊 GitHub Stats
+
+🔗 Profile:  https://github.com/rajvardhan-here
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajvardhan-here\&show_icons=true\&theme=radical)
 
 ---
-![Python](https://img.shields.io/badge/Python-Blue?logo=python)
-![HTML](https://img.shields.io/badge/HTML-Orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Blue?logo=css3)
-![Git](https://img.shields.io/badge/Git-Red?logo=git)
 
+🔥 Contribution Activity
 
+🔗 **View Contributions:** https://github.com/rajvardhan-here
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajvardhan-here\&theme=radical)
+
+---
+
+🧩 Most Used Languages
+
+🔗 **View Repositories:** https://github.com/rajvardhan-here?tab=repositories
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-here\&layout=compact)
+
+---
+
+🎯 Current Focus
+
+* Artificial Intelligence & Machine Learning
+* Full Stack Development (Python + React)
+* Strengthening Data Structures & Problem Solving
+
+---
+
+📫 Connect with Me
+
+LinkedIn: https://linkedin.com/in/rajvardhann
+
+---
