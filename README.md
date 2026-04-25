@@ -34,10 +34,11 @@ Python for Data Science – NPTEL** *(Score: Updating soon)
 
 SimpliLearn Certifications:
 
-   Data Science
-    🔗 [View Certificate](ADD_LINK_HERE)
-   Python Programming
-    🔗 [View Certificate](ADD_LINK_HERE)
+   Introduction to Generative AI Studio
+    🔗 [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
+    
+   Introduction to Google Cloud Platform
+    🔗 [View Certificate]([ADD_LINK_HERE](https://simpli-web.app.link/e/CNmP6LP4C2b))
 
 ---
 
