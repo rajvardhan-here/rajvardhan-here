@@ -83,8 +83,8 @@ Backend developer and B.Tech CSE student at Medi-Caps University, Indore (2023â€
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajvardhan-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-here&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
+
+
 
 </div>
 
