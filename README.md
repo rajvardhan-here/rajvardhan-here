@@ -68,16 +68,10 @@ I build real-world projects using Python and FastAPI, work with PostgreSQL and M
 
 ## 🚀 Projects
 
-<div align="center">
-
-<a href="https://github.com/healthcare-project-team/healthcare-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=healthcare-project-team&repo=healthcare-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rajvardhan-here/habitfy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajvardhan-here&repo=habitfy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Description | Stack | Links |
+|:---|:---|:---|:---:|
+| 🏥 **MediCare** | Healthcare platform — JWT auth, role-based access (Doctor/Patient), appointment booking | FastAPI · PostgreSQL · React · Tailwind · Render | [🔗 Live](https://healthcare-backend-beige.vercel.app) · [📁 Repo](https://github.com/healthcare-project-team/healthcare-project) |
+| 📊 **Habitfy** | Productivity SaaS — habit tracking, streak counters, finance tracker, task manager | React · Vite · Supabase · PostgreSQL · Vercel | [🔗 Live](https://habitfy-teal.vercel.app) · [📁 Repo](https://github.com/rajvardhan-here/habitfy) |
 
 ---
 
