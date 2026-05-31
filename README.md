@@ -15,14 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%90%8D;Python+%7C+FastAPI+%7C+Django+%7C+PostgreSQL;DSA+%7C+Building+in+Public;Open+for+Internship+%26+Freelance+%F0%9F%9A%80" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajvardhan-here&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rajvardhan-here?style=for-the-badge&color=56d364&labelColor=0d1117&label=FOLLOWERS"/>
-</div>
-
 ---
 
 ## 🧠 About Me
@@ -46,7 +38,6 @@ I build real-world projects using Python and FastAPI, work with PostgreSQL and M
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -79,20 +70,12 @@ I build real-world projects using Python and FastAPI, work with PostgreSQL and M
 
 <div align="center">
 
-[![MediCare](https://github-readme-stats.vercel.app/api/pin/?username=healthcare-project-team&repo=healthcare-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9)](https://github.com/healthcare-project-team/healthcare-project)
-&nbsp;&nbsp;
-[![Habitfy](https://github-readme-stats.vercel.app/api/pin/?username=rajvardhan-here&repo=habitfy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9)](https://github.com/rajvardhan-here/habitfy)
-
-</div>
-
-<div align="center">
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏥 MediCare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Habitfy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|:---:|:---:|
-| Healthcare platform with JWT auth | Productivity SaaS — habits + finance |
-| Role-based access: Doctor / Patient | Streak counters + task manager |
-| FastAPI · PostgreSQL · React · Tailwind | React · Vite · Supabase · PostgreSQL |
-| [🔗 Live](https://healthcare-backend-beige.vercel.app) &nbsp; [📁 Repo](https://github.com/healthcare-project-team/healthcare-project) | [🔗 Live](https://habitfy-teal.vercel.app) &nbsp; [📁 Repo](https://github.com/rajvardhan-here/habitfy) |
+<a href="https://github.com/healthcare-project-team/healthcare-project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=healthcare-project-team&repo=healthcare-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/rajvardhan-here/habitfy">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rajvardhan-here&repo=habitfy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=56d364&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -115,16 +98,10 @@ I build real-world projects using Python and FastAPI, work with PostgreSQL and M
 
 ## 📜 Certifications
 
-<div align="center">
-
-| 🏆 | Certificate | Issuer | |
-|:---:|:---|:---|:---:|
-| 🥇 | **NPTEL Elite — Python for Data Science** | IIT Madras · SWAYAM | [View Certificate](https://drive.google.com/file/d/1v_y5rClABdRP9Tu7Wnm4DI5rHnifdRsj/view?usp=sharing) |
-| 📘 | **Advanced Data Structures & Algorithms** | Board Infinity | [View Certificate](https://drive.google.com/file/d/11Aee0da71_XXYyi7AT5n7a6kKitBaQOJ/view?usp=sharing) |
-| ☁️ | **Generative AI Studio** | Google Cloud · Simplilearn | [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b) |
-| ☁️ | **Google Cloud Platform** | Simplilearn | [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b) |
-
-</div>
+- 🏆 **NPTEL Elite — Python for Data Science** · IIT Madras · SWAYAM · [View Certificate](https://drive.google.com/file/d/1v_y5rClABdRP9Tu7Wnm4DI5rHnifdRsj/view?usp=sharing)
+- 📘 **Advanced Data Structures & Algorithms** · Board Infinity · [View Certificate](https://drive.google.com/file/d/11Aee0da71_XXYyi7AT5n7a6kKitBaQOJ/view?usp=sharing)
+- ☁️ **Generative AI Studio** · Google Cloud · Simplilearn · [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
+- ☁️ **Google Cloud Platform** · Simplilearn · [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b)
 
 ---
 
