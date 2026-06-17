@@ -21,15 +21,14 @@
 
 Full stack developer and B.Tech CSE student at Medi-Caps University, Indore (2023–2027).
 
-I build real-world projects with **React** on the frontend and **Node.js + Express** on the backend, with **MongoDB & PostgreSQL** for databases. I practice DSA daily in Java and believe in building in public — shipping projects and sharing every lesson along the way.
+I build real-world projects with **React** on the frontend and **Java** for logic and backend work, while practicing **Data Structures & Algorithms** consistently in Java. I believe in building in public — shipping projects and sharing every lesson along the way.
 
 - 🔭 Building **MediCare** (Full Stack Healthcare Platform) and **Habitfy** (React + Supabase)
-- 🌱 Learning **MERN Stack** via Sigma 8.0 — Node · Express · MongoDB · REST APIs
+- 🌱 Practicing **Data Structures & Algorithms with Java** daily — Arrays, Strings, Recursion and beyond
 - 💻 Core Stack: **React · Node.js · Express · MongoDB · JavaScript · Java**
 - 💼 Open for **internship** and **freelance** full stack development
 - 🎤 Public speaker — NSS Technical Dept., Medi-Caps University (2024–25)
 - 📍 Indore, India
-
 ---
 
 ## 🛠️ Tech Stack
