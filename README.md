@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajvardhan%20Singh%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Building%20in%20Public&descAlignY=52&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajvardhan%20Singh%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Java%20%7C%20Building%20in%20Public&descAlignY=52&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -12,20 +12,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%90%8D;Python+%7C+FastAPI+%7C+Django+%7C+PostgreSQL;DSA+with+Java+%7C+Building+in+Public;Open+for+Internship+%26+Freelance+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Java+%7C+JavaScript+%7C+HTML+%7C+CSS;DSA+with+Java+%7C+Building+in+Public;Open+for+Internship+%26+Freelance+%F0%9F%9A%80" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
-Backend developer and B.Tech CSE student at Medi-Caps University, Indore (2023–2027).
+Full stack developer and B.Tech CSE student at Medi-Caps University, Indore (2023–2027).
 
-I build real-world projects using Python and FastAPI, work with PostgreSQL and MySQL databases, and practice DSA consistently. I believe in building in public — shipping projects and sharing every lesson along the way.
+I build real-world projects with **React** on the frontend and **Java** for logic and backend work, while practicing DSA consistently in Java. I believe in building in public — shipping projects and sharing every lesson along the way.
 
-- 🔭 Building **MediCare** (FastAPI + PostgreSQL) and **Habitfy** (React + Supabase)
-- 🌱 Practicing **DSA** daily with Java
-- 💼 Open for **internship** and **freelance** backend development
+- 🔭 Building **MediCare** (Full Stack Healthcare Platform) and **Habitfy** (React + Supabase)
+- 🌱 Practicing **DSA with Java** daily — Arrays, Strings, Recursion and beyond
+- 💻 Core Stack: **React · Java · JavaScript · HTML · CSS**
+- 💼 Open for **internship** and **freelance** full stack development
 - 🎤 Public speaker — NSS Technical Dept., Medi-Caps University (2024–25)
 - 📍 Indore, India
 
@@ -37,16 +38,16 @@ I build real-world projects using Python and FastAPI, work with PostgreSQL and M
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+**Frontend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases**
 
@@ -73,7 +74,7 @@ I build real-world projects using Python and FastAPI, work with PostgreSQL and M
 
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
-| 🏥 **MediCare** | Healthcare platform — JWT auth, role-based access (Doctor/Patient), appointment booking | FastAPI · PostgreSQL · React · Tailwind · Render | [🔗 Live](https://healthcare-backend-beige.vercel.app) · [📁 Repo](https://github.com/healthcare-project-team/healthcare-project) |
+| 🏥 **MediCare** | Healthcare platform — JWT auth, role-based access (Doctor/Patient), appointment booking | React · PostgreSQL · Tailwind · Render | [🔗 Live](https://healthcare-backend-beige.vercel.app) · [📁 Repo](https://github.com/healthcare-project-team/healthcare-project) |
 | 📊 **Habitfy** | Productivity SaaS — habit tracking, streak counters, finance tracker, task manager | React · Vite · Supabase · PostgreSQL · Vercel | [🔗 Live](https://habitfy-teal.vercel.app) · [📁 Repo](https://github.com/rajvardhan-here/habitfy) |
 
 ---
@@ -119,7 +120,7 @@ Practicing Data Structures & Algorithms daily with Java — arrays, linked lists
 
 ## 💼 Open for Internship & Freelance
 
-**Backend Development · Python · FastAPI · PostgreSQL**
+**Full Stack Development · React · Java · JavaScript**
 
 📩 **rajvardhansinghchouhan1@gmail.com**
 
