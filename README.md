@@ -118,6 +118,7 @@ Practicing Data Structures & Algorithms daily with Java — arrays, linked lists
 ## 📜 Certifications
 
 - 🏆 **NPTEL Elite — Python for Data Science** · IIT Madras · SWAYAM · [View Certificate](https://drive.google.com/file/d/1v_y5rClABdRP9Tu7Wnm4DI5rHnifdRsj/view?usp=sharing)
+- ☁️ AWS Academy Graduate – Cloud Foundations (2026) [View Certificate](https://drive.google.com/file/d/1x4aitx6nhbL7n8a9prRR7m7kp0QsC_bJ/view?usp=sharing)
 - 📘 **Advanced Data Structures & Algorithms** · Board Infinity · [View Certificate](https://drive.google.com/file/d/11Aee0da71_XXYyi7AT5n7a6kKitBaQOJ/view?usp=sharing)
 - ☁️ **Generative AI Studio** · Google Cloud · Simplilearn · [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
 - ☁️ **Google Cloud Platform** · Simplilearn · [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b)
