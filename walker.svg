@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80">
+<line x1="0" y1="77" x2="1000" y2="77" stroke="#FFEBAF" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="8 10"><animate attributeName="stroke-dashoffset" values="0;18" dur="0.4s" repeatCount="indefinite"/></line>
+<g>
+<animateTransform attributeName="transform" type="translate" values="-90 0;1090 0" dur="18s" repeatCount="indefinite"/>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2.5;0 0" dur="0.5s" repeatCount="indefinite"/>
+<g transform="translate(0,7)" stroke-linecap="round" fill="none">
+<text x="-55" y="24" font-size="15" font-family="Consolas, monospace" fill="#4C9DB0" stroke="none">&lt;/&gt;<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" repeatCount="indefinite"/></text>
+<line x1="0" y1="36" x2="0" y2="50" stroke="#FFEBAF" stroke-width="5"><animateTransform attributeName="transform" type="rotate" values="35 0 36;-35 0 36;35 0 36" dur="0.5s" repeatCount="indefinite"/></line>
+<g><animateTransform attributeName="transform" type="rotate" values="32 0 54;-32 0 54;32 0 54" dur="0.5s" repeatCount="indefinite"/><line x1="0" y1="54" x2="0" y2="68" stroke="#2E7D91" stroke-width="6"/><line x1="0" y1="69" x2="7" y2="69" stroke="#FFEBAF" stroke-width="5"/></g>
+<rect x="-19" y="31" width="11" height="19" rx="4" fill="#FFEBAF" stroke="none"/>
+<rect x="-10" y="28" width="20" height="28" rx="9" fill="#4C9DB0" stroke="none"/>
+<g><animateTransform attributeName="transform" type="rotate" values="-32 0 54;32 0 54;-32 0 54" dur="0.5s" repeatCount="indefinite"/><line x1="0" y1="54" x2="0" y2="68" stroke="#2E7D91" stroke-width="6"/><line x1="0" y1="69" x2="7" y2="69" stroke="#FFEBAF" stroke-width="5"/></g>
+<circle cx="0" cy="17" r="13" fill="#FFEBAF" stroke="none"/>
+<path d="M-13 14 A13 13 0 0 1 13 14 Z" fill="#1F5B6B" stroke="none"/>
+<rect x="4" y="11" width="14" height="4" rx="2" fill="#1F5B6B" stroke="none"/>
+<circle cx="5" cy="19" r="1.8" fill="#1F5B6B" stroke="none"/>
+<path d="M3 24 Q7 27 11 24" stroke="#1F5B6B" stroke-width="1.6"/>
+<line x1="0" y1="36" x2="0" y2="50" stroke="#FFEBAF" stroke-width="5"><animateTransform attributeName="transform" type="rotate" values="-35 0 36;35 0 36;-35 0 36" dur="0.5s" repeatCount="indefinite"/></line>
+</g>
+</g>
+</g>
+</svg>
