@@ -18,8 +18,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=60&section=footer" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=ABOUT%20ME&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
 Full stack developer and B.Tech CSE student at **Medi-Caps University, Indore** (2023–2027).
@@ -31,7 +29,9 @@ I ship real projects with **React**, practice **Data Structures and Algorithms i
 - 🎤 Public speaker at NSS Technical Dept., Medi-Caps University (2024–25)
 - 📍 Based in Indore, India
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=60&section=footer" width="100%"/>
+<div align="center">
+  <img src="pet.svg" width="100%"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=TECH%20STACK&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
@@ -43,49 +43,46 @@ I ship real projects with **React**, practice **Data Structures and Algorithms i
 <img height="28" src="https://img.shields.io/badge/Spring_Boot-2E7D91?style=flat-square&logo=springboot&logoColor=FFFFFF"/>
 <img height="28" src="https://img.shields.io/badge/JPA_Hibernate-2E7D91?style=flat-square&logo=hibernate&logoColor=FFFFFF"/>
 <img height="28" src="https://img.shields.io/badge/Maven-2E7D91?style=flat-square&logo=apachemaven&logoColor=FFFFFF"/>
-
-<h3 align="center">API and Security</h3>
-
-<img height="28" src="https://img.shields.io/badge/Spring_Security-FFEBAF?style=flat-square&logo=springsecurity&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/REST_API-FFEBAF?style=flat-square&logo=postman&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/JWT-FFEBAF?style=flat-square&logo=jsonwebtokens&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/Spring_Security-2E7D91?style=flat-square&logo=springsecurity&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/REST_API-2E7D91?style=flat-square&logo=postman&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/JWT-2E7D91?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF"/>
 
 <h3 align="center">Frontend</h3>
 
-<img height="28" src="https://img.shields.io/badge/React-2E7D91?style=flat-square&logo=react&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/JavaScript-2E7D91?style=flat-square&logo=javascript&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/Vite-2E7D91?style=flat-square&logo=vite&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/Tailwind_CSS-2E7D91?style=flat-square&logo=tailwind-css&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/HTML5-2E7D91?style=flat-square&logo=html5&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/CSS3-2E7D91?style=flat-square&logo=css3&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/React-FFEBAF?style=flat-square&logo=react&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/JavaScript-FFEBAF?style=flat-square&logo=javascript&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/Vite-FFEBAF?style=flat-square&logo=vite&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/Tailwind_CSS-FFEBAF?style=flat-square&logo=tailwind-css&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/HTML5-FFEBAF?style=flat-square&logo=html5&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/CSS3-FFEBAF?style=flat-square&logo=css3&logoColor=1F5B6B"/>
 
 <h3 align="center">Databases and Auth</h3>
 
-<img height="28" src="https://img.shields.io/badge/PostgreSQL-FFEBAF?style=flat-square&logo=postgresql&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/Supabase-FFEBAF?style=flat-square&logo=supabase&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/MongoDB-FFEBAF?style=flat-square&logo=mongodb&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/Redis-FFEBAF?style=flat-square&logo=redis&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/Firebase-FFEBAF?style=flat-square&logo=firebase&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/PostgreSQL-2E7D91?style=flat-square&logo=postgresql&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Supabase-2E7D91?style=flat-square&logo=supabase&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/MongoDB-2E7D91?style=flat-square&logo=mongodb&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Redis-2E7D91?style=flat-square&logo=redis&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Firebase-2E7D91?style=flat-square&logo=firebase&logoColor=FFFFFF"/>
 
 <h3 align="center">DevOps and Cloud</h3>
 
-<img height="28" src="https://img.shields.io/badge/Docker-2E7D91?style=flat-square&logo=docker&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/AWS-2E7D91?style=flat-square&logo=amazonaws&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/GitHub_Actions-2E7D91?style=flat-square&logo=githubactions&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/Linux-2E7D91?style=flat-square&logo=linux&logoColor=FFFFFF"/>
-<img height="28" src="https://img.shields.io/badge/Vercel-2E7D91?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Docker-FFEBAF?style=flat-square&logo=docker&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/AWS-FFEBAF?style=flat-square&logo=amazonaws&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/GitHub_Actions-FFEBAF?style=flat-square&logo=githubactions&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/Linux-FFEBAF?style=flat-square&logo=linux&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/Vercel-FFEBAF?style=flat-square&logo=vercel&logoColor=1F5B6B"/>
 
 <h3 align="center">Tools</h3>
 
-<img height="28" src="https://img.shields.io/badge/Git-FFEBAF?style=flat-square&logo=git&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/GitHub-FFEBAF?style=flat-square&logo=github&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/IntelliJ_IDEA-FFEBAF?style=flat-square&logo=intellijidea&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/VS_Code-FFEBAF?style=flat-square&logo=visualstudiocode&logoColor=1F5B6B"/>
-<img height="28" src="https://img.shields.io/badge/Postman-FFEBAF?style=flat-square&logo=postman&logoColor=1F5B6B"/>
+<img height="28" src="https://img.shields.io/badge/Git-2E7D91?style=flat-square&logo=git&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/GitHub-2E7D91?style=flat-square&logo=github&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/IntelliJ_IDEA-2E7D91?style=flat-square&logo=intellijidea&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/VS_Code-2E7D91?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Postman-2E7D91?style=flat-square&logo=postman&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Premiere_Pro-2E7D91?style=flat-square&logo=adobepremierepro&logoColor=FFFFFF"/>
+<img height="28" src="https://img.shields.io/badge/Canva-2E7D91?style=flat-square&logo=canva&logoColor=FFFFFF"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=60&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=FEATURED%20PROJECTS&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
@@ -134,8 +131,6 @@ A productivity SaaS app to build habits and keep streaks, with a finance tracker
 
 <br clear="all"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=60&section=footer" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=GITHUB%20ANALYTICS&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
 <div align="center">
@@ -165,8 +160,6 @@ A productivity SaaS app to build habits and keep streaks, with a finance tracker
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=60&section=footer" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=CERTIFICATIONS&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
 - 🥇 **NPTEL Elite, Python for Data Science** · IIT Madras · SWAYAM · [View Certificate](https://drive.google.com/file/d/1v_y5rClABdRP9Tu7Wnm4DI5rHnifdRsj/view?usp=sharing)
@@ -175,8 +168,6 @@ A productivity SaaS app to build habits and keep streaks, with a finance tracker
 - 🤖 **Generative AI Studio** · Google Cloud · Simplilearn · [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
 - ☁️ **Google Cloud Platform** · Simplilearn · [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b)
 - 🌐 **Sigma 8.0, Full Stack Web Development** · Apna College
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=60&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=LET'S%20CONNECT&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
