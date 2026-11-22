@@ -1,137 +1,208 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Rajvardhan%20Singh%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Java%20Spring%20Boot%20%7C%20Building%20in%20Public&descAlignY=52&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=230&section=header&text=Rajvardhan%20Singh%20Chouhan&fontSize=44&fontColor=FFEBAF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Java%20Spring%20Boot&descSize=18&descAlignY=60&descColor=FFEBAF" width="100%"/>
 </div>
 
 <div align="center">
-
-### React on the frontend. Leveling up to Java Spring Boot on the backend.
-
-<a href="https://rajvardhan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B2C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/rajvardhann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/X_rajvardhann"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:rajvardhansinghchouhan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=FFEBAF&center=true&vCenter=true&width=760&height=50&lines=React+on+the+frontend;Node.js+and+Express+on+the+backend;Leveling+up+with+Java+%2B+Spring+Boot;Solving+DSA+in+Java+daily;Shipping+real+products+in+public" alt="typing"/>
 </div>
 
----
+<br/>
 
-## About Me
+<div align="center">
+  <a href="https://rajvardhan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4C9DB0?style=for-the-badge&logo=vercel&logoColor=FFEBAF"/></a>
+  <a href="https://linkedin.com/in/rajvardhann"><img src="https://img.shields.io/badge/LinkedIn-4C9DB0?style=for-the-badge&logo=linkedin&logoColor=FFEBAF"/></a>
+  <a href="https://x.com/X_rajvardhann"><img src="https://img.shields.io/badge/X-4C9DB0?style=for-the-badge&logo=x&logoColor=FFEBAF"/></a>
+  <a href="mailto:rajvardhansinghchouhan1@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C9DB0?style=for-the-badge&logo=gmail&logoColor=FFEBAF"/></a>
+  <a href="https://github.com/rajvardhan-here"><img src="https://img.shields.io/badge/GitHub-4C9DB0?style=for-the-badge&logo=github&logoColor=FFEBAF"/></a>
+  <a href="https://habitfy-teal.vercel.app"><img src="https://img.shields.io/badge/Habitfy-4C9DB0?style=for-the-badge&logo=vercel&logoColor=FFEBAF"/></a>
+  <a href="https://sakha-assistant.vercel.app"><img src="https://img.shields.io/badge/SAKHA-4C9DB0?style=for-the-badge&logo=googleassistant&logoColor=FFEBAF"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=rajvardhan-here&label=Profile%20Views&color=4C9DB0&labelColor=1F5B6B&style=for-the-badge" alt="views"/>
+</div>
 
-Full stack developer and B.Tech CSE student at Medi-Caps University, Indore (2023–2027).
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEBAF&height=3&section=header" width="100%"/>
 
-I ship real projects with **React** and practice **Data Structures & Algorithms in Java**. Right now, I am going deep on **Java Spring Boot** backends. I build in public and share what I learn along the way.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=ABOUT%20ME&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
-- Built **Habitfy** (productivity SaaS) and **SAKHA** (AI voice assistant)
-- Learning **Spring Boot REST APIs, Spring Data JPA, Spring Security + JWT, PostgreSQL, Redis, Docker and AWS**
-- Public speaker at NSS Technical Dept., Medi-Caps University (2024–25)
-- Based in Indore, India
+Full stack developer and B.Tech CSE student at **Medi-Caps University, Indore** (2023–2027).
 
----
+I ship real projects with **React** and **Node.js**, practice **Data Structures and Algorithms in Java**, and I'm going deep on **Java Spring Boot** backends. I build in public and share what I learn along the way.
 
-## Tech Stack
+- 🚀 Built **Habitfy** (productivity SaaS) and **SAKHA** (AI voice assistant)
+- ☕ Learning **Spring Boot REST APIs, Spring Data JPA, Spring Security + JWT, PostgreSQL, Redis, Docker and AWS**
+- 🎤 Public speaker at NSS Technical Dept., Medi-Caps University (2024–25)
+- 📍 Based in Indore, India
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEBAF&height=3&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=TECH%20STACK&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
-**Backend Focus — Java + Spring Boot**
+**Backend Focus**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JPA / Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://img.shields.io/badge/Java-4C9DB0?style=for-the-badge&logo=openjdk&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Spring_Boot-4C9DB0?style=for-the-badge&logo=springboot&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Spring_Security-4C9DB0?style=for-the-badge&logo=springsecurity&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/JPA_Hibernate-4C9DB0?style=for-the-badge&logo=hibernate&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Maven-4C9DB0?style=for-the-badge&logo=apachemaven&logoColor=FFEBAF"/>
+<br/>
+<img src="https://img.shields.io/badge/Node.js-4C9DB0?style=for-the-badge&logo=nodedotjs&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Express-4C9DB0?style=for-the-badge&logo=express&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/REST_API-4C9DB0?style=for-the-badge&logo=postman&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/JWT-4C9DB0?style=for-the-badge&logo=jsonwebtokens&logoColor=FFEBAF"/>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/React-FFEBAF?style=for-the-badge&logo=react&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/JavaScript-FFEBAF?style=for-the-badge&logo=javascript&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/Vite-FFEBAF?style=for-the-badge&logo=vite&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-FFEBAF?style=for-the-badge&logo=tailwind-css&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/HTML5-FFEBAF?style=for-the-badge&logo=html5&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/CSS3-FFEBAF?style=for-the-badge&logo=css3&logoColor=1F5B6B"/>
 
-**Databases and Caching**
+**Databases and Auth**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4C9DB0?style=for-the-badge&logo=postgresql&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Supabase-4C9DB0?style=for-the-badge&logo=supabase&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/MongoDB-4C9DB0?style=for-the-badge&logo=mongodb&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Redis-4C9DB0?style=for-the-badge&logo=redis&logoColor=FFEBAF"/>
+<img src="https://img.shields.io/badge/Firebase-4C9DB0?style=for-the-badge&logo=firebase&logoColor=FFEBAF"/>
 
 **DevOps, Cloud and Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-FFEBAF?style=for-the-badge&logo=docker&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/AWS-FFEBAF?style=for-the-badge&logo=amazonaws&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-FFEBAF?style=for-the-badge&logo=githubactions&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/Linux-FFEBAF?style=for-the-badge&logo=linux&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/Git-FFEBAF?style=for-the-badge&logo=git&logoColor=1F5B6B"/>
+<br/>
+<img src="https://img.shields.io/badge/GitHub-FFEBAF?style=for-the-badge&logo=github&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-FFEBAF?style=for-the-badge&logo=intellijidea&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/VS_Code-FFEBAF?style=for-the-badge&logo=visualstudiocode&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/Postman-FFEBAF?style=for-the-badge&logo=postman&logoColor=1F5B6B"/>
+<img src="https://img.shields.io/badge/Vercel-FFEBAF?style=for-the-badge&logo=vercel&logoColor=1F5B6B"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEBAF&height=3&section=header" width="100%"/>
 
-## Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=FEATURED%20PROJECTS&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
-| Project | What it does | Stack | Links |
-|:---|:---|:---|:---:|
-| **Portfolio** | Personal developer portfolio showcasing my work, skills and journey | React, Vite, CSS | [Live](https://rajvardhan-portfolio-one.vercel.app/) · [Repo](https://github.com/rajvardhan-here/rajvardhan-portfolio) |
-| **SAKHA** | AI voice assistant: chat, voice mode, live web search, Google Calendar sync and persistent memory | React, Vite, Node.js, Express, MongoDB, Groq, Firebase Auth | [Live](https://sakha-assistant.vercel.app) · [Repo](https://github.com/rajvardhan-here/sakha-assistant) |
-| **Habitfy** | Productivity SaaS: habit tracking, streak counters, finance tracker and task manager | React, Vite, Supabase, PostgreSQL, Vercel | [Live](https://habitfy-teal.vercel.app) · [Repo](https://github.com/rajvardhan-here/habitfy) |
+<table>
+<tr>
+<td width="55%" valign="middle">
 
----
+### Portfolio
+My personal developer portfolio. It shows my projects, skills and journey in one place, and works as my online resume.
 
-## DSA Practice
+<img src="https://img.shields.io/badge/React-4C9DB0?style=flat-square&logo=react&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/Vite-4C9DB0?style=flat-square&logo=vite&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/CSS3-4C9DB0?style=flat-square&logo=css3&logoColor=FFEBAF"/>
+
+<a href="https://rajvardhan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-4C9DB0?style=for-the-badge&logo=vercel&logoColor=FFEBAF"/></a>
+<a href="https://github.com/rajvardhan-here/rajvardhan-portfolio"><img src="https://img.shields.io/badge/Source_Code-FFEBAF?style=for-the-badge&logo=github&logoColor=1F5B6B"/></a>
+
+</td>
+<td width="45%" align="center" valign="middle">
+<a href="https://rajvardhan-portfolio-one.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rounded&color=4C9DB0&height=150&section=header&text=Portfolio&fontSize=40&fontColor=FFEBAF&fontAlignY=50" width="100%"/></a>
+</td>
+</tr>
+
+<tr>
+<td width="45%" align="center" valign="middle">
+<a href="https://sakha-assistant.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rounded&color=4C9DB0&height=150&section=header&text=SAKHA&fontSize=40&fontColor=FFEBAF&fontAlignY=50" width="100%"/></a>
+</td>
+<td width="55%" valign="middle">
+
+### SAKHA
+An AI voice assistant with chat and voice mode. It can search the web live, sync with Google Calendar and remember things about you.
+
+<img src="https://img.shields.io/badge/React-4C9DB0?style=flat-square&logo=react&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/Node.js-4C9DB0?style=flat-square&logo=nodedotjs&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/Express-4C9DB0?style=flat-square&logo=express&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/MongoDB-4C9DB0?style=flat-square&logo=mongodb&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/Firebase-4C9DB0?style=flat-square&logo=firebase&logoColor=FFEBAF"/>
+
+<a href="https://sakha-assistant.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-4C9DB0?style=for-the-badge&logo=vercel&logoColor=FFEBAF"/></a>
+<a href="https://github.com/rajvardhan-here/sakha-assistant"><img src="https://img.shields.io/badge/Source_Code-FFEBAF?style=for-the-badge&logo=github&logoColor=1F5B6B"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="55%" valign="middle">
+
+### Habitfy
+A productivity SaaS app to build habits and keep streaks. It also has a finance tracker and a task manager.
+
+<img src="https://img.shields.io/badge/React-4C9DB0?style=flat-square&logo=react&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/Vite-4C9DB0?style=flat-square&logo=vite&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/Supabase-4C9DB0?style=flat-square&logo=supabase&logoColor=FFEBAF"/> <img src="https://img.shields.io/badge/PostgreSQL-4C9DB0?style=flat-square&logo=postgresql&logoColor=FFEBAF"/>
+
+<a href="https://habitfy-teal.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-4C9DB0?style=for-the-badge&logo=vercel&logoColor=FFEBAF"/></a>
+<a href="https://github.com/rajvardhan-here/habitfy"><img src="https://img.shields.io/badge/Source_Code-FFEBAF?style=for-the-badge&logo=github&logoColor=1F5B6B"/></a>
+
+</td>
+<td width="45%" align="center" valign="middle">
+<a href="https://habitfy-teal.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rounded&color=4C9DB0&height=150&section=header&text=Habitfy&fontSize=40&fontColor=FFEBAF&fontAlignY=50" width="100%"/></a>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEBAF&height=3&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=GITHUB%20ANALYTICS&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/DSA_with_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+<table>
+<tr>
+<td align="center" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=rajvardhan-here&show_icons=true&card_width=495&bg_color=4C9DB0&border_color=FFEBAF&title_color=FFEBAF&icon_color=FFEBAF&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+</td>
+<td align="center" valign="top">
+<img width="100%" src="https://streak-stats.demolab.com?user=rajvardhan-here&background=4C9DB0&border=FFEBAF&stroke=FFEBAF&ring=FFEBAF&fire=FFEBAF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFEBAF&sideLabels=FFFFFF&dates=E6F3F7" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" colspan="2">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-here&layout=compact&card_width=1000&langs_count=8&bg_color=4C9DB0&border_color=FFEBAF&title_color=FFEBAF&text_color=FFFFFF" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" colspan="2">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajvardhan-here&bg_color=4C9DB0&color=FFEBAF&line=FFEBAF&point=FFFFFF&area=true&area_color=FFEBAF&hide_border=true&custom_title=Contribution%20Graph" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajvardhan-here&theme=flat&no-frame=true&column=7&margin-w=12&margin-h=12" />
 
 </div>
 
-Solving problems in Java: arrays, strings, recursion, linked lists, trees, graphs and dynamic programming.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEBAF&height=3&section=header" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=CERTIFICATIONS&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
-## GitHub Analytics
+- 🥇 **NPTEL Elite, Python for Data Science** · IIT Madras · SWAYAM · [View Certificate](https://drive.google.com/file/d/1v_y5rClABdRP9Tu7Wnm4DI5rHnifdRsj/view?usp=sharing)
+- ☁️ **AWS Academy Graduate, Cloud Foundations** (2026) · [View Certificate](https://drive.google.com/file/d/1x4aitx6nhbL7n8a9prRR7m7kp0QsC_bJ/view?usp=sharing)
+- 🧮 **Advanced Data Structures & Algorithms** · Board Infinity · [View Certificate](https://drive.google.com/file/d/11Aee0da71_XXYyi7AT5n7a6kKitBaQOJ/view?usp=sharing)
+- 🤖 **Generative AI Studio** · Google Cloud · Simplilearn · [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
+- ☁️ **Google Cloud Platform** · Simplilearn · [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b)
+- 🌐 **Sigma 8.0, Full Stack Web Development** · Apna College
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEBAF&height=3&section=header" width="100%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajvardhan-here&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-here&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=rajvardhan-here&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-</div>
-
----
-
-## Certifications
-
-- **NPTEL Elite, Python for Data Science** · IIT Madras · SWAYAM · [View Certificate](https://drive.google.com/file/d/1v_y5rClABdRP9Tu7Wnm4DI5rHnifdRsj/view?usp=sharing)
-- **AWS Academy Graduate, Cloud Foundations** (2026) · [View Certificate](https://drive.google.com/file/d/1x4aitx6nhbL7n8a9prRR7m7kp0QsC_bJ/view?usp=sharing)
-- **Advanced Data Structures & Algorithms** · Board Infinity · [View Certificate](https://drive.google.com/file/d/11Aee0da71_XXYyi7AT5n7a6kKitBaQOJ/view?usp=sharing)
-- **Generative AI Studio** · Google Cloud · Simplilearn · [View Certificate](https://simpli-web.app.link/e/8pVFMNH4C2b)
-- **Google Cloud Platform** · Simplilearn · [View Certificate](https://simpli-web.app.link/e/CNmP6LP4C2b)
-- **Sigma 8.0, Full Stack Web Development** · Apna College
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4C9DB0&height=46&section=header&text=LET'S%20CONNECT&fontSize=20&fontColor=FFEBAF&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
-## Let's Build Something
+<br/>
 
-**Full Stack Development · React · Java · Spring Boot · PostgreSQL**
+<a href="mailto:rajvardhansinghchouhan1@gmail.com"><img src="https://img.shields.io/badge/Email_Me-4C9DB0?style=for-the-badge&logo=gmail&logoColor=FFEBAF"/></a>
+<a href="https://linkedin.com/in/rajvardhann"><img src="https://img.shields.io/badge/LinkedIn-4C9DB0?style=for-the-badge&logo=linkedin&logoColor=FFEBAF"/></a>
+<a href="https://x.com/X_rajvardhann"><img src="https://img.shields.io/badge/Follow_on_X-4C9DB0?style=for-the-badge&logo=x&logoColor=FFEBAF"/></a>
+<a href="https://github.com/rajvardhan-here"><img src="https://img.shields.io/badge/GitHub-4C9DB0?style=for-the-badge&logo=github&logoColor=FFEBAF"/></a>
+<br/>
+<a href="https://rajvardhan-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFEBAF?style=for-the-badge&logo=vercel&logoColor=1F5B6B"/></a>
+<a href="https://habitfy-teal.vercel.app"><img src="https://img.shields.io/badge/Habitfy-FFEBAF?style=for-the-badge&logo=vercel&logoColor=1F5B6B"/></a>
+<a href="https://sakha-assistant.vercel.app"><img src="https://img.shields.io/badge/SAKHA-FFEBAF?style=for-the-badge&logo=googleassistant&logoColor=1F5B6B"/></a>
 
-[Email](mailto:rajvardhansinghchouhan1@gmail.com) · [LinkedIn](https://linkedin.com/in/rajvardhann) · [GitHub](https://github.com/rajvardhan-here) · [Portfolio](https://rajvardhan-portfolio-one.vercel.app/)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4C9DB0&height=90&section=footer" width="100%"/>
 
 </div>
